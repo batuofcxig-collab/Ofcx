@@ -1,0 +1,18 @@
+# Python
+*.pyc
+__pycache__/
+
+# Django
+*.log
+*.pot
+*.py[cod]
+*.sqlite3
+/static/
+/media/
+
+# Environment-specific
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
